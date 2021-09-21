@@ -64,6 +64,6 @@ private setAxiosConfig(token?: string, params = {}) {
   
 ## Foreign languages
 * English (B1+ Speaking / B2 Writing)
-* Spanish (A1)
+* Spanish (A1+)
 * Polish (A1)
 <hr>
