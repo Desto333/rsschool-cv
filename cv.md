@@ -1,7 +1,7 @@
-#*Andrei Lazarchik* 
+# *Andrei Lazarchik* 
 <hr>
 
-##Contact details:
+## Contact details:
 * **Phone**: +375 29 3385197
 * **Address**: Belarus, Minsk, Alibegova str., 24-62
 * **E-mail**: [desto@mail.ru](mailto:desto@mail.ru)
@@ -10,12 +10,12 @@
 * **LinkedIn**: [Andrei Lazarchik](https://www.linkedin.com/in/andrei-lazarchik/)
 <hr>
 
-##Summary
+## Summary
 Currently, I am working as test-automation engineer (JavaScript) at EPAM. My responsibilities include setting up the configuration of testing frameworks, designing their structure, creating and supporting automated tests.
 By taking this course, I would like to acquire skills, required for frontend developers, as I have always been interested in this track.
 <hr>
 
-##Skills
+## Skills
 * JavaScript / TypeScript / NodeJS
 * Protractor / Cucumber / WebdriverJS
 * Java
@@ -26,7 +26,7 @@ By taking this course, I would like to acquire skills, required for frontend dev
 * CSS
 <hr>
 
-##Code example
+## Code example
 ```javascript
 function checkCoupon(enteredCode, correctCode, currentDate, expirationDate){
     if (enteredCode !== correctCode) {
@@ -47,13 +47,13 @@ private setAxiosConfig(token?: string, params = {}) {
 ```
 <hr>
 
-##Experience
+## Experience
 * Over 15 years of experience in the sphere of international trade and customs clearance
 * Over 6 years of experience in e-commerce (online sales)
 * About 1 year of experience as test-automation engineer
 <hr>
 
-##Education
+## Education
 * Belarussian State Economic University 
   * Department of International Business Relations
 * FreeIT course
@@ -62,7 +62,7 @@ private setAxiosConfig(token?: string, params = {}) {
   * JavaScript
 <hr>
   
-##Foreign languages
+## Foreign languages
 * English (B1+ Speaking / B2 Writing)
 * Spanish (A1)
 * Polish (A1)
